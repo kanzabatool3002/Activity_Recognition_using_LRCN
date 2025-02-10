@@ -23,7 +23,8 @@ Training was conducted on **Google Colab**, using Python libraries including:
 - **Scikit-learn** for dataset splitting.
 
 ## LRCN Model Architecture:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kanzabatool3002/Activity_Recognition_using_LRCN/blob/main/Activity_Recognition_Using__LRCN.ipynb)
+
 
 The **LRCN** model consists of:
 - **TimeDistributed Conv2D layers** with ReLU activation for spatial feature extraction.
